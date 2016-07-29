@@ -9,6 +9,7 @@ body {
   color: #666;
 }
 
+
 h1, h2, h3 {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
@@ -40,6 +41,8 @@ hr {
   margin-top: 3em;
   margin-bottom: 2em;
 }
+
+
 
 header {
   background-color: #999;
@@ -99,6 +102,20 @@ footer {
 footer hr {
   margin-top: 2em;
   margin-bottom: 1em;
+}
+
+.headtwo {
+  background-color: #999;
+  background-image: url(img/fb_img6.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 4em;
+  text-align: center;
+  height: 500px;
 }
 
 .center {
@@ -204,6 +221,14 @@ footer hr {
   .gallery .grid-2 {
     width: 33.3333333%;
   }
+}
+
+.page2 {
+  background-color: gainsboro;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
 }
 
 
